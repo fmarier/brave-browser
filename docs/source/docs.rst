@@ -15,7 +15,7 @@ and then opening a PR.
 Prerequisites
 =============
 
-* Install ``sphinx`` using `these instructions <http://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html#sphinx>`_.
+* Install ``sphinx`` using `these instructions <https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html#sphinx>`_.
     * You might want to create a Python `virtualenv <https://virtualenv.pypa.io/en/stable/>`_ or use `Pipenv <https://docs.pipenv.org/>`_
       first to sequester these Python modules from your installed system
       modules.
@@ -25,8 +25,8 @@ Using Sphinx
 ============
 
 To create or edit reStructuredText files in the source directory,
-`follow this guide <http://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html#using-sphinx-restructuredtext>`_.
-The `reStructuredText primer <http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#rst-primer>`_
+`follow this guide <https://dont-be-afraid-to-commit.readthedocs.io/en/latest/documentation.html#using-sphinx-restructuredtext>`_.
+The `reStructuredText primer <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#rst-primer>`_
 documents the markup that is supported by Sphinx.
 
 After editing your content, you will render and view the documentation locally.
@@ -68,7 +68,7 @@ We have a project for the `brave-browser repository <https://github.com/brave/br
 already setup on readthedocs.org. You can view the latest documentation at
 `https://brave-browser.readthedocs.io/en/latest/ <https://brave-browser.readthedocs.io/en/latest/>`_.
 
-By default, `readthedocs <http://brave-browser.readthedocs.io/>`_
+By default, `readthedocs <https://brave-browser.readthedocs.io/>`_
 will render any new changes to the documentation
 nightly. But readthedocs.org also allows setting up a webhook that will
 render new changes to the live site when any commit lands in the repository.
